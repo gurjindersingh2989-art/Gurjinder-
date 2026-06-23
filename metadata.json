@@ -1,0 +1,6 @@
+{
+  "name": "AI Cinematic Video and Image Creator",
+  "description": "Create, edit, and export high-quality cinematic videos and images using advanced AI scripts, customizable color grades, multi-track timelines, transitions, and audio overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
